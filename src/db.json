@@ -1,0 +1,65 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "1234567890",
+        "github_link": "https://github.com/johndoe",
+        "stopwatch_time": "00:02:30"
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "9876543210",
+        "github_link": "https://github.com/janesmith",
+        "stopwatch_time": "00:01:45"
+    },
+    {
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "phone": "5551234567",
+        "github_link": "https://github.com/michaeljohnson",
+        "stopwatch_time": "00:03:15"
+    },
+    {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "phone": "3339876543",
+        "github_link": "https://github.com/emilybrown",
+        "stopwatch_time": "00:02:00"
+    },
+    {
+        "name": "Daniel Wilson",
+        "email": "daniel.wilson@example.com",
+        "phone": "7775551234",
+        "github_link": "https://github.com/danielwilson",
+        "stopwatch_time": "00:04:00"
+    },
+    {
+        "name": "Sophia Garcia",
+        "email": "sophia.garcia@example.com",
+        "phone": "9993332222",
+        "github_link": "https://github.com/sophiagarcia",
+        "stopwatch_time": "00:01:30"
+    },
+    {
+        "name": "William Martinez",
+        "email": "william.martinez@example.com",
+        "phone": "1117778888",
+        "github_link": "https://github.com/williammartinez",
+        "stopwatch_time": "00:02:45"
+    },
+    {
+        "name": "Olivia Lopez",
+        "email": "olivia.lopez@example.com",
+        "phone": "4442223333",
+        "github_link": "https://github.com/olivialopez",
+        "stopwatch_time": "00:03:30"
+    },
+    {
+        "name": "James Miller",
+        "email": "james.miller@example.com",
+        "phone": "6669998888",
+        "github_link": "https://github.com/jamesmiller",
+        "stopwatch_time": "00:02:15"
+    }
+]
